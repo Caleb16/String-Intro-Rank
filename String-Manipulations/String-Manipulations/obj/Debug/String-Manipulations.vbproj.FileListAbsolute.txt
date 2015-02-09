@@ -1,0 +1,10 @@
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\bin\Debug\String-Manipulations.exe.config
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\bin\Debug\String-Manipulations.exe
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\bin\Debug\String-Manipulations.pdb
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\bin\Debug\String-Manipulations.xml
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String_Manipulations.Form1.resources
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String_Manipulations.Resources.resources
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String-Manipulations.vbproj.GenerateResource.Cache
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String-Manipulations.exe
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String-Manipulations.xml
+C:\Users\Caleb\Documents\GitHub\String-Manipulations\String-Manipulations\obj\Debug\String-Manipulations.pdb
